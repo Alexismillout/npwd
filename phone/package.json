@@ -11,7 +11,7 @@
     "@mui/icons-material": "^5.2.0",
     "@mui/lab": "^5.0.0-alpha.45",
     "@mui/material": "^5.2.1",
-    "@mui/styles": "^5.2.1",
+    "@mui/styles": "^5.4.4",
     "dayjs": "^1.10.7",
     "dompurify": "^2.3.3",
     "emoji-mart": "^3.0.1",
