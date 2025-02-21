@@ -13,7 +13,7 @@
     "@mui/material": "^5.2.1",
     "@mui/styles": "^5.2.1",
     "dayjs": "^1.10.7",
-    "dompurify": "^2.3.3",
+    "dompurify": "^3.2.4",
     "emoji-mart": "^3.0.1",
     "fivem-nui-react-lib": "^2.2.8",
     "howler": "^2.2.1",
